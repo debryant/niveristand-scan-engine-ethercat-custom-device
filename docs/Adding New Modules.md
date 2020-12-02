@@ -67,6 +67,9 @@ the Module level you will have to make a new mode.
         * `Create Channel Array.vi`
         * `Create Channel.vi`
         * `Read Channel Array.vi`
+1. Create a new `Convert <Your Mode> Module to Slot Configuration.vi`
+1. Create a new `Convert to <Your Mode> Module.vi`
+
 
 ### Adding A Channel to a Mode
 
